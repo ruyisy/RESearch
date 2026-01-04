@@ -11,10 +11,6 @@ To address this, we propose **RESearch**, a framework that introduces a **Reflec
 2.  **Discard incorrect answers** (via reflection) when risks are detected.
 3.  **Safely fail** (passive failure) when information is insufficient.
 
-<p align="center">
-  <img src="figs/method.png" width="100%">
-</p>
-
 
 ## 🚀 Training
 
