@@ -4,11 +4,7 @@ This repository contains the code for the paper **"Controlling Risk in Search Ag
 
 ## 📌 Overview
 
-**Risk Control for Search Agents (RC-Search)** is a critical task for deploying reliable search agents. As shown below, search agents often hallucinate answers when retrieval is noisy or insufficient.
-
-<p align="center">
-  <img src="figs/Intro.png" width="50%">
-</p>
+**Risk Control for Search Agents (RC-Search)** is a critical task for deploying reliable search agents. 
 
 To address this, we propose **RESearch**, a framework that introduces a **Reflection Phase** after the standard execution phase. By modeling the full **execution-reflection trajectory** and optimizing it via PPO with a risk-aware reward, RESearch enables agents to:
 1.  **Maintain confidence** when the execution is correct.
