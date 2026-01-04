@@ -34,7 +34,7 @@ Key configuration in `train_ppo.sh`:
 
 ## 🙏 Acknowledgements
 
-This work is implemented based on [Search-R1](https://github.com/HKUST-KnowComp/Search-R1), [StepSearch](https://github.com/Zillwang/StepSearch), and [veRL](https://github.com/volcengine/verl). We sincerely thank the authors of these projects for their valuable contributions to the open-source community.
+This work is implemented based on [Search-R1](https://github.com/PeterGriffinJin/Search-R1), [StepSearch](https://github.com/Zillwang/StepSearch), and [veRL](https://github.com/volcengine/verl). We sincerely thank the authors of these projects for their valuable contributions to the open-source community.
 
 ## ⚠️ Note
 
